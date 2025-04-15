@@ -7,7 +7,7 @@ It replicates a coffee ordering UI inspired by modern mobile apps.
 
 ## 📱 UI Preview
 
-![Screenshot](screenshots/Screenshot.png)
+![App Screenshot](screenshots/Screenshot.png)
 
 ---
 
